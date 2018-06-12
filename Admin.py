@@ -41,7 +41,7 @@ def menu():
         e = getpass('\033[1;92mPassword \033[1;93m: ')
 
 
-    if x=="muju" and e=="123":
+    if x=="Admin" and e=="vank":
 
         print('')
 
